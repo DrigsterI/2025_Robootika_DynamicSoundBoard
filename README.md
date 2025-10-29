@@ -26,7 +26,7 @@ Iga meeskond **forkib** selle repo ja dokumenteerib siin oma seadme/projekti:
 ## Meeskond
 
 - Õppeaine: IFI6203.DT Robootika  
-- Autor(id): _[täida nimed siia]_  
-- Aasta / semester: _[nt 2025 kevad]_  
+- Autor(id): Gabriel Jõe, Maria Rjabtseva, Mihhail Zolotarjov 
+- Aasta / semester: 2025 kevad  
 
 > NB! Ärge kustutage osi, mis on nõutud, küll aga võite lisada lisafaile (katsetused, logid, alternatiivsed skeemid jne).
